@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SUBHAJIT NATH</h1>
 <h3 align="center">I am a passionate full stack developer from India.</h3>
 
-<img align="right" alt="Coding" height="200"src="https://subhajitnath0.github.io/Personal_Portfolio_SbhajitNath/New%20folder/Subhajit.png"/>
+<img align="right" alt="Coding" height="200" src="https://github.com/user-attachments/assets/a418488a-f3b1-43c2-b8ee-12fde7db6cfd" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitnath0&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitnath0" /> </p>
 
