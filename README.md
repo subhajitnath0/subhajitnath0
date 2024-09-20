@@ -1,4 +1,4 @@
-![MasterHead](subhajitnath.gif)
+<!-- ![MasterHead](subhajitnath.gif) -->
 <h1 align="center">Hi 👋, I'm SUBHAJIT NATH</h1>
 <h3 align="center">I am a passionate full stack developer from India.</h3>
 
